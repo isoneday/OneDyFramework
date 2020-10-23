@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
-  spec.name         = "OneDyFramewok"
-  spec.version      = "0.0.1"
+  spec.name         = "OneDyFramework"
+  spec.version      = "0.0.2"
   spec.summary      = "Custom rounded corner for your UIView component added dependency."
   spec.description  = "Rounded framework is a library to create custom corner for your UIView component."
 
