@@ -1,5 +1,5 @@
 Pod::Spec.new do |spec|
-
+  # this is an update for ondedyframework
   spec.name         = "OneDyFramework"
   spec.version      = "0.0.2"
   spec.summary      = "Custom rounded corner for your UIView component added dependency."
@@ -8,7 +8,7 @@ Pod::Spec.new do |spec|
   # Replace value from spec.homepage with your own git link that setup for the project
   spec.homepage     = "https://github.com/isoneday/OneDyFramework"
   # spec.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
-
+  # dont forget use this license
   # spec.license      = "MIT (example)"
   spec.license      = { :type => "MIT", :file => "LICENSE" }
 
